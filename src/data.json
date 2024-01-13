@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MUDr. Giga Chad",
+    "specialization": "Ortodont",
+    "image": "/public/gigachad.png",
+    "description": "MUDr. Giga Chad je vysoko skúsený ortodont s viacročnou praxou. Je známy svojou odbornosťou vytvárania krásnych úsmevov a poskytovaním špičkovej ortodontickej starostlivosti. Jeho práca spočíva v diagnostike a liečbe ortodontických problémov, vrátane nosenia rovnátek a ďalších ortodontických pomôcok.",
+    "location": "Nitra"
+  },
+  {
+    "id": 2,
+    "name": "MUDr. Arnold Schwarzenegger",
+    "specialization": "Parodontológ",
+    "image": "/public/arnold.jpg",
+    "description": "MUDr. Arnold Schwarzenegger je oddaný parodontológ, ktorý sa zameriava na prevenciu, diagnostiku a liečbu parodontálnych ochorení. S jeho jemným prístupom zabezpečuje optimálne zdravie ďasien pre svojich pacientov. Okrem toho vedie špecializované kurzy a workshopy, kde zdieľa svoje odborné znalosti s ďalšími zubnými lekármi.",
+    "location": "Nitra"
+  },
+  {
+    "id": 3,
+    "name": "MUDr. Jordan Barrett",
+    "specialization": "Pediatrický Zubný Lekár",
+    "image": "/public/jordan.jpg",
+    "description": "MUDr. Jordan Barrett je starostlivý a súcitný detský zubný lekár. Specializuje sa na poskytovanie zubnej starostlivosti pre deti a vytváranie pozitívneho a priateľského prostredia, aby každá návšteva bola príjemná pre mladých pacientov. Jeho prístup k liečbe detí zahŕňa aj edukáciu o ústnej hygiene a prevencii zubných problémov u mladých pacientov.",
+    "location": "Nitra"
+  }
+]

@@ -1,0 +1,118 @@
+body{
+    
+    background-color: lightblue;
+    width: 100vw;
+
+    margin: 0; 
+    padding: 0; 
+    background-size: cover;
+    
+}
+
+footer {
+    margin-top: 5cm;
+    bottom: 0;
+  }
+
+  
+  .contact-info {
+    text-align: center;
+    background-color: darkgray;
+    padding-bottom: 10px;
+  }
+  
+  /* Style the paragraph elements to display in a line */
+  .contact-info p {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+.c{
+    background-color: darkgray;
+}
+ 
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dentist-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Adjust the gap between dentist items */
+  justify-content: center;
+}
+
+.dentist-item {
+  text-align: center;
+  border-radius: 10px; /* Adjust the border-radius for rounded corners */
+  padding: 10px; /* Add padding for better spacing */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  width: 8cm;
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition effect */
+  text-decoration: none;
+}
+
+
+
+.dentist-item:hover {
+  background-color: #f0f0f0; /* Change background color on hover */
+  transform: scale(1.02); /* Slightly scale up to give a pushed back effect */
+}
+
+.dentist-image {
+  width: 100px; /* Adjust the width of the circular image */
+  height: 100px; /* Adjust the height of the circular image */
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover; /* Ensure the image covers the circular container */
+  margin-bottom: 10px; /* Adjust the margin between image and name */
+}
+
+.dentist-name {
+  font-weight: bold;
+  text-decoration: none;
+  color: #3498db;
+}
+
+.specialization {
+  color: #555; /* Optional: Add a color to the specialization text */
+}
+
+
+
+
+/* Your styles for the header can be added here */
+header {
+    background-color: #fff; /* White background color */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the items horizontally */
+  }
+  
+  .logo {
+    width: 80px; /* Adjust the width of the logo as needed */
+    height: auto;
+  }
+  
+  .nav-link {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #3498db; /* Default text color */
+    font-size: 16px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    transition: color 0.3s ease; /* Smooth color transition */
+  }
+  
+  .nav-link:hover {
+    color:lightskyblue; /* Text color when hovered */
+  }
+
+
